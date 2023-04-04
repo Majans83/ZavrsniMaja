@@ -1,0 +1,22 @@
+{
+  "name": "zavrsnimaja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Majans83/ZavrsniMaja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Majans83/ZavrsniMaja/issues"
+  },
+  "homepage": "https://github.com/Majans83/ZavrsniMaja#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
